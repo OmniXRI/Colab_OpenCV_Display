@@ -13,3 +13,4 @@
    方法2.1 透過IPython.display HTML()及base64 b64encode()函式庫顯示視頻  
    方法2.2 利用ffmpeg處理OpenCV VideoWriter()產出視頻播放問題  
 
+請將測試影像、視頻及範例程式 Colab_OpenCV_Display.ipynb 複製到自己的雲端硬碟 Google Drive上，開啟*.ipynb後即可執行。
