@@ -14,3 +14,6 @@
    方法2.2 利用ffmpeg處理OpenCV VideoWriter()產出視頻播放問題  
 
 請將測試影像、視頻及範例程式 Colab_OpenCV_Display.ipynb 複製到自己的雲端硬碟 Google Drive上，開啟*.ipynb後即可執行。
+
+或者直接點擊下列連結直接運行，但請依指示將圖檔及影片置於個人Google Drive中。
+https://colab.research.google.com/github/OmniXRI/Colab_OpenCV_Display/blob/main/Colab_OpenCV_Display.ipynb
